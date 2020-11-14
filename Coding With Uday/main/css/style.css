@@ -1,0 +1,12 @@
+.lvideo{
+    width: 76vh;
+}
+
+.watch{
+    color: rgba(15, 15, 14, 0.996);
+    background-color: rgb(250, 250, 250);
+}
+
+.watch:hover{
+    color: red;
+}
